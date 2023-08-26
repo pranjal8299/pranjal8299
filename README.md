@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>I’m currently working on learning open source
+<br>I’m currently working on machine learning
 <br>I’m currently learning DSA,DBMS,git hub and python language
 <br>Ask me about assembly language
 <br>How to reach me: insp_pra_g_t and parasg87999gupta@gmail.com
